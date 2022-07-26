@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a construction warehouse
-- 🌱 I’m currently learning the basics, HTML, CSS, JS and starting a little bit of React
+- 🌱 I’m currently learning how to be a full stack web developer at Labenu edtech
 - 👯 I’m looking to collaborate on projects where I can keep leaning even more
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I was a psycology studant but what can I do if Technology is my thing?😉
