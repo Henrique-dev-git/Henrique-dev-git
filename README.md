@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a construction warehouse
 - 🌱 I’m currently learning how to be a full stack web developer at Labenu edtech
 - 👯 I’m looking to collaborate on projects where I can keep leaning even more
 - 😄 Pronouns: He/His
